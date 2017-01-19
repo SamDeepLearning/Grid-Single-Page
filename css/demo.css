@@ -22,10 +22,10 @@ body {
     /*font-family: 'Lato', Calibri, Arial, sans-serif;
     color: #47a3da;*/
 	font-family: "nyt-franklin", arial, helvetica, sans-serif;
-        font-size: 10px;
-        font-weight: bold;
-        color: #a81817;
-        text-transform: uppercase;
+        font-size: 12px;
+       /* font-weight: bold;*/
+        color: #47a3da;
+       /* text-transform: uppercase;*/
 }
 
 a {
