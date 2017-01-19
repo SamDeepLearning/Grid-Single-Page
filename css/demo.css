@@ -1,5 +1,5 @@
 /* General Blueprint Style */
-@import url(http://fonts.googleapis.com/css?family=Lato:100);
+@import url(http://fonts.googleapis.com/css?family=Lato:300);
 @font-face {
 	font-family: 'bpicons';
 	src:url('../fonts/bpicons/bpicons.eot');
@@ -23,7 +23,7 @@ body {
    /* color: #47a3da;*/
 	/*font-family: "nyt-franklin", arial, helvetica, sans-serif;*/
         font-size: 13px;
-        font-weight: 100;
+        font-weight: 300;
         color: #000000;
        /* text-transform: uppercase;*/
 }
